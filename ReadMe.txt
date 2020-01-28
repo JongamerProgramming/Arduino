@@ -1,6 +1,7 @@
 All Code was developed by:
-Paul Krug
-Jonathan Süß(github.com/JongamerProgramming)
-Helper: Felix Weber(github.com/thisisfel1x)
+PK;
+Jonathan Süß(github.com/JongamerProgramming);
+Helper: Felix Weber(github.com/thisisfel1x);
+Teacher: Grischa Haag(github.com/grischahaag);
 
-(cc-by Paul Krug, Jonathan Süß)
+(cc-by PK, Jonathan Süß)
